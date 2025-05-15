@@ -1,0 +1,17 @@
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\bin\Debug\net8.0-windows\parking.exe
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\bin\Debug\net8.0-windows\parking.deps.json
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\bin\Debug\net8.0-windows\parking.runtimeconfig.json
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\bin\Debug\net8.0-windows\parking.dll
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\bin\Debug\net8.0-windows\parking.pdb
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\obj\Debug\net8.0-windows\park_form.Form1.resources
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\obj\Debug\net8.0-windows\parking.csproj.GenerateResource.cache
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\obj\Debug\net8.0-windows\parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\obj\Debug\net8.0-windows\parking.AssemblyInfoInputs.cache
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\obj\Debug\net8.0-windows\parking.AssemblyInfo.cs
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\obj\Debug\net8.0-windows\parking.csproj.CoreCompileInputs.cache
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\obj\Debug\net8.0-windows\parking.sourcelink.json
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\obj\Debug\net8.0-windows\parking.dll
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\obj\Debug\net8.0-windows\refint\parking.dll
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\obj\Debug\net8.0-windows\parking.pdb
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\obj\Debug\net8.0-windows\parking.genruntimeconfig.cache
+C:\Users\gahia\OneDrive\Desktop\Park-semaphore\park_form\park_form\obj\Debug\net8.0-windows\ref\parking.dll
