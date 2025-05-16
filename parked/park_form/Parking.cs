@@ -28,7 +28,7 @@ namespace park_form
         {
             Form = form;
             EntranceSemaphore = new Semaphore(1, 1);
-            SlotSemaphore= new Semaphore(10, 10); 
+            SlotSemaphore= new Semaphore(0, 10); 
             TotSlots = 10; 
         }
     }

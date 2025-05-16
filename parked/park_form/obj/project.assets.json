@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gahia\\OneDrive\\Desktop\\Park-semaphore\\park_form\\park_form\\parking.csproj",
+      "projectUniqueName": "C:\\Users\\gahia\\Downloads\\parking-main\\parking-main\\parked\\park_form\\parking.csproj",
       "projectName": "parking",
-      "projectPath": "C:\\Users\\gahia\\OneDrive\\Desktop\\Park-semaphore\\park_form\\park_form\\parking.csproj",
+      "projectPath": "C:\\Users\\gahia\\Downloads\\parking-main\\parking-main\\parked\\park_form\\parking.csproj",
       "packagesPath": "C:\\Users\\gahia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gahia\\OneDrive\\Desktop\\Park-semaphore\\park_form\\park_form\\obj\\",
+      "outputPath": "C:\\Users\\gahia\\Downloads\\parking-main\\parking-main\\parked\\park_form\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

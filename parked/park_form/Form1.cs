@@ -61,17 +61,19 @@ namespace park_form
         {
             simulationThread = new Thread(() =>
             {
-                while (isRunning && parking.CarsAwaiting.Count > 0)
-                {
-                    if (parking.SlotSemaphore.WaitOne(0))
-                    {
-                        Car nextCar = parking.CarsAwaiting[0];
-                        nextCar.Start();
-                        Thread.Sleep(1000);
-                    }
+                //while (isRunning && parking.CarsAwaiting.Count > 0)
+                //{
 
-                    Thread.Sleep(100);
+                for (int i = 0; i < cars.Count; i++)
+                {
+                    cars[i].Start();
                 }
+
+
+
+                    //Car nextCar = parking.CarsAwaiting[0];
+                    //nextCar.Start();
+                //}
             });
 
             simulationThread.Start();

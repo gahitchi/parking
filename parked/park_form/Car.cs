@@ -26,6 +26,13 @@ namespace park_form
 
         private void Run()
         {
+            //Random rnd = new Random();
+            //Thread.Sleep(rnd.Next(1000, 3000));
+
+            park.EntranceSemaphore.WaitOne();
+            Thread.Sleep(2000);
+            park.EntranceSemaphore.Release();
+
             park.CarsAwaiting.Remove(this);
             park.CarsInside.Add(this);
             park.Form.UpdateLists();
@@ -33,8 +40,8 @@ namespace park_form
             Thread.Sleep(stay);
 
             park.CarsInside.Remove(this);
-            park.CarsExited.Add(this);
             park.SlotSemaphore.Release();
+            park.CarsExited.Add(this);
             park.Form.UpdateLists();
         }
     }
